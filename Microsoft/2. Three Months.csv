@@ -2,7 +2,7 @@ Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,practiced
 EASY,Two Sum,100.0,0.5577699740099882,https://leetcode.com/problems/two-sum,"Array, Hash Table", yes
 MEDIUM,Single Element in a Sorted Array,73.8,0.5920694527750138,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search", yes
 MEDIUM,Longest Substring Without Repeating Characters,68.6,0.3693616884072647,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window", yes
-MEDIUM,3Sum,68.6,0.3707094931112545,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting", 
+MEDIUM,3Sum,68.6,0.3707094931112545,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting", yes
 EASY,Move Zeroes,68.6,0.6280400947352507,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers", 
 MEDIUM,Find Peak Element,66.6,0.46509224260700627,https://leetcode.com/problems/find-peak-element,"Array, Binary Search", 
 MEDIUM,Subarray Sum Equals K,64.4,0.45476203786382785,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum", 
