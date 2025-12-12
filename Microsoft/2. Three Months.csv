@@ -6,7 +6,7 @@ Phase,Intuition_Built,Difficulty,Title,Topics,Link,Acceptance Rate,Frequency,pra
 0. Basics,Greedy approach to mapping values.,MEDIUM,Integer to Roman,"Hash Table, Math, String",https://leetcode.com/problems/integer-to-roman,0.6861931275088928,47.2, yes
 1. Array Mechanics,Simple pass; resetting state on condition.,EASY,Max Consecutive Ones,Array,https://leetcode.com/problems/max-consecutive-ones,0.6248232110227296,51.9, yes
 1. Array Mechanics,Intro to 'Write Pointer' vs 'Read Pointer'.,EASY,Move Zeroes,"Array, Two Pointers",https://leetcode.com/problems/move-zeroes,0.6280400947352507,68.6, yes
-1. Array Mechanics,In-place modification using two pointers.,EASY,Remove Duplicates from Sorted Array,"Array, Two Pointers",https://leetcode.com/problems/remove-duplicates-from-sorted-array,0.6035551112882038,47.2, 
+1. Array Mechanics,In-place modification using two pointers.,EASY,Remove Duplicates from Sorted Array,"Array, Two Pointers",https://leetcode.com/problems/remove-duplicates-from-sorted-array,0.6035551112882038,47.2, yes
 1. Array Mechanics,Filling an array backwards to avoid overwriting.,EASY,Merge Sorted Array,"Array, Two Pointers, Sorting",https://leetcode.com/problems/merge-sorted-array,0.5291951450619177,59.0, 
 1. Array Mechanics,Boyer-Moore Voting Algorithm (Space optimization).,EASY,Majority Element,"Array, Hash Table, Divide and Conquer, Sorting, Counting",https://leetcode.com/problems/majority-element,0.6574028018936169,41.2, 
 1. Array Mechanics,"Dutch National Flag; managing 3 regions (Low, Mid, High).",MEDIUM,Sort Colors,"Array, Two Pointers, Sorting",https://leetcode.com/problems/sort-colors,0.6758312948649591,55.8, 
